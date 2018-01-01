@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "162566085422",
+    "firebase_url": "https://dustbin-ddc87.firebaseio.com",
+    "project_id": "dustbin-ddc87",
+    "storage_bucket": "dustbin-ddc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162566085422:android:d02e3e947a2c4851",
+        "android_client_info": {
+          "package_name": "com.example.vindh.dustbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162566085422-jqrsde694vu9fndj743mc2o5hloc338r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYfjbEKsCyuZJXm3apjyLlofzBG94RBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
